@@ -368,16 +368,6 @@ Used for the K-sum in Σ₄.
 
 ---
 
-## Files
-
-| File | Description |
-|---|---|
-| `r4_O1_perfected_v3_2.py` | Complete implementation — all theorems, O(log q) primitives, verification suite |
-| `O1_BREAKTHROUGH_SUMMARY.txt` | Summary of results and complexity hierarchy |
-
-
----
-
 ## Citation
 
 Bilal el Issaoui,
